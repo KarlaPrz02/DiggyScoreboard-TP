@@ -16,3 +16,4 @@ A simple datapack to show the total of Pickaxe Uses on the top of the scoreboard
 
 4- All done, now you can start digging.
 
+*(Should work on both singleplayer and multiplayer)*
