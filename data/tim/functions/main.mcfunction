@@ -1,4 +1,4 @@
-scoreboard players set Total UsosPickaxe 0
-scoreboard players set Total TotalMinado 0
-scoreboard players operation Total TotalMinado += * UsosPickaxe
-scoreboard players operation Total UsosPickaxe = Total TotalMinado
+scoreboard players set Total PickaxeUses 0
+scoreboard players set Total TotalMined 0
+scoreboard players operation Total TotalMined += * PickaxeUses
+scoreboard players operation Total PickaxeUses = Total TotalMined
