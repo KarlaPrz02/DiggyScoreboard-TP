@@ -1,6 +1,6 @@
 
 # DiggyScoreboard-TP
-A simple datapack to show the total of Pickaxe Uses on the top of the scoreboard
+A simple datapack to show the total of Pickaxe Uses on the top of the scoreboard.
 
 ![scoreboard test](https://github.com/user-attachments/assets/b2abcc3a-b9a8-4c4c-9275-459f7394ff6e)
 
@@ -14,5 +14,5 @@ A simple datapack to show the total of Pickaxe Uses on the top of the scoreboard
 
 3- For view the scoreboard, execute ``/scoreboard objectives setdisplay sidebar PickaxeUses``
 
-4- All done, now you can start digging
+4- All done, now you can start digging.
 
