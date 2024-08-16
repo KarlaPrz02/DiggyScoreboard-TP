@@ -1,6 +1,6 @@
 
 # DiggyScoreboard-TP
-A simple datapack to show the total of Diamond Pickaxe Uses on the top of the scoreboard on vanilla.
+A simple datapack for 1.15 to show the total of Diamond Pickaxe Uses on the top of the scoreboard on vanilla.
 
 ![scoreboard test](https://github.com/user-attachments/assets/b2abcc3a-b9a8-4c4c-9275-459f7394ff6e)
 
